@@ -14,8 +14,8 @@ a.	Choice: Credit/Debit
 b.	Card Number
 c.	CVV (would be asked as a security check before completing the transfer)
 d.	Card Expiration Date
-
-3.	List of Transactions
+_
+3.	List of Transactions_
 a.	Stored separately 
 
 4.	Transaction in progress
