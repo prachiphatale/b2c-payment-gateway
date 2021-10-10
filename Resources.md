@@ -22,4 +22,4 @@ a.	Stored separately
 a.	
 
 5.	Statement
-a.	Would be periodic (monthly statement) – will receive a notification via email and phone
+a.	Would be periodic (ad hoc - on demand) – will receive a notification via email and phone
