@@ -1,6 +1,7 @@
 # Resources
 
 _1.	User Information (stored in a database)_
+
 a.	Name of User
 b.	Email
 c.	Username
