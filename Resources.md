@@ -14,12 +14,16 @@ a.	Choice: Credit/Debit
 b.	Card Number
 c.	CVV (would be asked as a security check before completing the transfer)
 d.	Card Expiration Date
-_
-3.	List of Transactions_
-a.	Stored separately 
 
-4.	Transaction in progress
+
+_3. List of Transactions_
+
+a.
+
+_4.	Transaction in progress_
+
 a.	
 
-5.	Statement
+_5.	Statement_
+
 a.	Would be periodic (ad hoc - on demand) – will receive a notification via email and phone
