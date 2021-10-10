@@ -9,6 +9,7 @@ d.	Password
 e.	Phone Number
 
 _2.	Card Information (stored in the same database as the user info)_
+
 a.	Choice: Credit/Debit
 b.	Card Number
 c.	CVV (would be asked as a security check before completing the transfer)
