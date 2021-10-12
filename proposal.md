@@ -103,8 +103,9 @@ Goal Number | Goal |Feature  | Scope of Feature | Order of Execution | Module| R
 4. You are using the term "Money Flow", but it is not listed as a resource.
    What is it? -- Please clarify.
 > Money is a UI Feature. It's a widget which will show customer's bank, merchant's bank, any intermediaries.
-> THis is only to show transparency of a transaction.
-> [#TODO] add diagram
+> This is only to show transparency of a transaction.
+> Diagram is shown as follows- [image](https://user-images.githubusercontent.com/78879280/136879386-79fae8f0-d434-4344-94c3-0ed36d3f048c.png)
+
 
 5. I cannot see how this statement is reflected in your resource list.
    If something will be "stored in the database", then it must be explicitly shown in the list of resources.
